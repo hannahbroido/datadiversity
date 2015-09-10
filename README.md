@@ -1,4 +1,6 @@
 # Data and Diversity Project Course
+## Changes to read me file
+### Test
 
 http://datadiversity.berkeley.edu/
 
