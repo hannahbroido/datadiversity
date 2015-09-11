@@ -28,4 +28,8 @@ The Berkeley Common Environment [(BCE)](http://bce.berkeley.edu/) maintains a vi
 
 If you're new to linux, this [tutorial](http://linuxcommand.org/learning_the_shell.php) for using the Terminal might be helpful.  These commands will also be reviewed in class.
 
+### Website Recommendations
+1. http://daringfireball.net/projects/markdown/basics
+2. https://github.com/
+
 
