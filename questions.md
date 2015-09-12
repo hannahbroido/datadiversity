@@ -1,3 +1,5 @@
+### Questions
+
 1. How are different majors perceived by various cohorts of students?
 
 2. Which students are primarily participating in activist movements on campus?
